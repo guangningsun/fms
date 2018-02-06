@@ -5,7 +5,7 @@
 * This project is used for small restaurant business information management
 
 
-* @copyright Chemira Co.,Ltd
+* Chemira Co.,Ltd
 
 
 * Connect
